@@ -22,7 +22,7 @@ sacremoses==0.0.45
 six==1.16.0
 SoundFile==0.10.3.post1
 tokenizers==0.10.3
-torch==1.9.0
+torch==1.8.0+cpu
 tqdm==4.61.2
 transformers==4.8.2
 typing-extensions==3.10.0.0
